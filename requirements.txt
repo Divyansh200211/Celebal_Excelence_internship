@@ -1,0 +1,6 @@
+streamlit==1.39.0
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+numpy==1.26.4
+cohere==5.10.0
+pinecone==5.0.0
